@@ -4,7 +4,7 @@
 
 I'm Eduardo from Brazil, and I work with Back-End Development and Data Science. My main programming language is Python, I'm an enthusiast developer hungry for knowledge.
 
-Skills: PYTHON / PANDAS / DJANGO / SCIKIT-LEARN / SQL 
+Skills: PYTHON / DJANGO / PANDAS / NUMPY / MATPLOTLIB / SCIKIT-LEARN / SQL / POWERBI 
 
 - 🔭 I’m currently working on my own company. 
 
