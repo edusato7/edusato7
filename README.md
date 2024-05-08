@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Eduardo Sato
 #### Back-End Developer and Data Scientist
-![Back-End Developer and Data Scientist](https://i.ibb.co/whDwYmM/bannergithub.png)
+![Back-End Developer and Data Scientist](https://i.ibb.co/gS868B5/edusatobannergithub.png)
 
 I'm Eduardo from Brazil, and I work with Back-End Development and Data Science. My main programming language is Python, I'm an enthusiast developer hungry for knowledge.
 
