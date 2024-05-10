@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Eduardo Sato
-#### Back-End Developer and Data Scientist
-![Back-End Developer and Data Scientist](https://i.ibb.co/gS868B5/edusatobannergithub.png)
+#### Data Analytics | Beck-End Development Student
+![Data Analyst](https://i.ibb.co/gS868B5/edusatobannergithub.png)
 
-I'm Eduardo from Brazil, and I work with Back-End Development and Data Science. My main programming language is Python, I'm an enthusiast developer hungry for knowledge.
+I'm Eduardo from Brazil, and I work with Data Analysis. My main programming language is Python. I'm an enthusiast hungry for knowledge, constantly improving my skills. Currently, I'm studying Data Science tools for Machine Learning and deepening into Back-End Development focused on Data handle.   
 
-Skills: PYTHON / DJANGO / PANDAS / NUMPY / MATPLOTLIB / SCIKIT-LEARN / SQL / POWERBI / EXCEL
+Skills: PYTHON / PANDAS / NUMPY / MATPLOTLIB / SQL / POWERBI / EXCEL
 
 - 🔭 I’m currently working on my own company. 
 
