@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Eduardo Sato
 #### Software Developer
 
-I'm Eduardo from Brazil, and I work with Software Development. My main programming languages are JavaScript and Python. I'm an enthusiast hungry for knowledge, constantly improving my skills. Currently, I'm studying Systems Analysis and Development at Uninter. 
+I'm Eduardo from Brazil and I work with Software Development. My main programming languages are JavaScript and Python. I'm a technology enthusiast hungry for knowledge and constantly improving my skills. Currently, I'm studying Systems Analysis and Development at Uninter. 
 
 Skills: HTML / CSS / JAVASCRIPT / PYTHON / SQL 
 
